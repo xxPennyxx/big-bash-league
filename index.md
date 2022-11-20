@@ -4,32 +4,32 @@
 
 > **Adelaide Strikers**
 >
-Wes Agar, Danny Briggs (ENG), Alex Carey, Harry Conway, Ryan Gibson, Travis Head, Spencer Johnson, Rashid Khan (AFG), Michael Neser, Harry Nielsen, Liam O'Connor, Matthew Renshaw, Phil Salt (ENG), Liam Scott, Matt Short, Peter Siddle, Cameron Valente, Jake Weatherald, Jon Wells, Daniel Worrall
+Fawad Ahmed, Wes Agar, Tom Banton (ENG), Cameron Boyce, Alex Carey, Harry Conway, Ryan Gibson, Travis Head (c), Spencer Johnson, Rashid Khan (AFG), Harry Nielsen, Liam O'Connor, Liam Scott, Matt Short, Peter Siddle
 
 > **Brisbane Heat**
 >
-Tom Banton (ENG), Xavier Bartlett, James Bazley, Max Bryant, Joe Burns, Tom Cooper, Joe Denly (ENG), Lewis Gregory (ENG), Sam Heazlett, Matthew Kuhnemann, Marnus Labuschagne, Ben Laughlin, Dan Lawrence (ENG), Chris Lynn (c), Simon Milenko, Morne Morkel, Jimmy Peirson, Lachlan Pfeffer, Jack Sinfield, Mark Steketee, Connor Sully, Mitchell Swepson, Mujeeb Ur Rahman (AFG), Jack Wildermuth, Jack Wood, Matthew Willans  
+Xavier Bartlett, James Bazley, Sam Billings (ENG), Max Bryant, Liam Guthrie, Sam Heazlett, Matthew Kuhnemann, Marnus Labuschagne, Simon Milenko, Colin Munro (NZ), Michael Neser, Jimmy Peirson (c) , Lachlan Pfeffer, Matthew Renshaw, Jack Sinfield, Mark Steketee, Connor Sully, Mitchell Swepson, Jack Wildermuth, Jack Wood, Matthew Willans  
 
 > **Hobart Hurricanes**
 >
-Scott Boland, Johan Botha, Tim David, Jake Doran, Nathan Ellis, James Faulkner, Peter Handscomb, Colin Ingram (SA), Will Jacks (ENG), Sandeep Lamichhane (NEP), Dawid Malan (ENG), Ben McDermott, Riley Meredith, David Moody, Mitch Owen, Tim Paine, Wil Parker, Keemo Paul (WI), D'Arcy Short, Matthew Wade (c), Nick Winter, Charlie Wakim, Mac Wright
+Scott Boland, Tim David, Jake Doran, Nathan Ellis, Peter Handscomb, Sandeep Lamichhane (NEP), Ben McDermott, Riley Meredith, David Moody, Mitch Owen, Wil Parker, Tom Rogers,  D'Arcy Short, Matthew Wade (c), Charlie Wakim, Mac Wright
 
 > **Melbourne Renegades**
 >
-Noor Ahmad (AFG), Cameron Boyce, Brody Crouch, Zak Evans, Aaron Finch (c), Jake Fraser-McGurk, Sam Harper, Marcus Harris, Mackenzie Harvey, Peter Hatzoglou, Jon Holland, Benny Howell (ENG), Josh Lalor, Shaun Marsh, Mohammad Nabi (AFG), James Pattinson, Mitch Perry, Jack Prestwidge, Kane Richardson, Rilee Rossouw (SA), Will Sutherland, Beau Webster, Imad Wasim (PAK)
+Zak Evans, Aaron Finch (c), Jake Fraser-McGurk, Sam Harper, Marcus Harris, Mackenzie Harvey, Zahir Khan (AFG), Josh Lalor, Liam Livingstone (ENG), Nic Maddinson, Shaun Marsh, Mohammad Nabi (AFG), James Pattinson, Mitch Perry, Jack Prestwidge, Kane Richardson, Will Sutherland, Mujeeb Ur Rahman (AFG), Jon Wells
 
 > **Melbourne Stars**
 >
-Hilton Cartwright, Jackson Coleman, Nathan Coulter-Nile, Ben Dunk, Andre Fletcher (WI), Seb Gotch, Liam Hatcher, Clint Hinchliffe, Dilbar Hussain (PAK), Zahir Khan (AFG), Nick Larkin, Nic Maddinson, Glenn Maxwell (c), Lance Morris, Tom O'Connell, Nicholas Pooran (WI), Will Pucovski , Haris Rauf (PAK), Billy Stanlake, Marcus Stoinis, Adam Zampa
+Joe Burns, Hilton Cartwright, Joe Clarke (ENG), Jackson Coleman, Brody Couch, Nathan Coulter-Nile, Liam Hatcher, Clint Hinchliffe, Nick Larkin, Glenn Maxwell,  Tom O'Connell, Haris Rauf (PAK), Billy Stanlake, Marcus Stoinis(c), Beau Webster, Adam Zampa
 
 > **Perth Scorchers**
 >
-Ashton Agar, Fawad Ahmed, Cameron Bancroft, Jason Behrendorff, Joe Clarke (England), Cameron Gannon, Cameron Green, Liam Guthrie, Aaron Hardie, Josh Inglis, Matthew Kelly, Liam Livingstone (ENG), Mitchell Marsh (c), Colin Munro (NZ), Joel Paris, Kurtis Patterson, Jhye Richardson, Corey Rocchiccioli, Jason Roy (ENG), Ashton Turner, Andrew Tye, Sam Whiteman
+Ashton Agar, Cameron Bancroft, Jason Behrendorff, Cameron Gannon, Cameron Green, Aaron Hardie, Peter Hatzoglou, Josh Inglis, Matthew Kelly, Mitchell Marsh, Lance Morris, Joel Paris, Kurtis Patterson, Jhye Richardson (c), Corey Rocchiccioli, Phil Salt (ENG), Ashton Turner, Andrew Tye
 
 > **Sydney Sixers**
 >
-Sean Abbott, Justin Avendano, Jake Ball, Nick Bertus, Jackson Bird, Carlos Brathwaite (WI), Dan Christian, Ben Dwarshuis, Jack Edwards, Mickey Edwards, Moises Henriques (c), Jason Holder (WI), Daniel Hughes, Hayden Kerr, Nathan Lyon, Ben Manenti, Lawrence Neil-Smith, Stephen O'Keefe, Josh Philippe, Lloyd Pope, Tom Rogers, Gurinder Sandhu, Jordan Silk, Mitchell Starc, James Vince (ENG)
+Sean Abbott, Justin Avendano, Nick Bertus, Jackson Bird, Carlos Brathwaite (WI), Dan Christian, Ben Dwarshuis, Jack Edwards, Mickey Edwards, Moises Henriques (c), Jason Holder (WI), Daniel Hughes, Hayden Kerr, Nathan Lyon, Ben Manenti, Lawrence Neil-Smith, Stephen O'Keefe, **Josh Philippe**, Lloyd Pope, Gurinder Sandhu, Jordan Silk, Mitchell Starc, James Vince (ENG)
 
 > **Sydney Thunder**
 >
-Sam Billings (ENG), Jonathan Cook, Ben Cutting, Oliver Davies, Brendan Doggett, Callum Ferguson (c), Matt Gilkes, Chris Green, Alex Hales (ENG), Baxter Holt, Usman Khawaja, Nathan McAndrew, Adam Milne (NZ), Arjun Nair, Alex Ross, Daniel Sams, Jason Sangha, Tanveer Sangha, Chris Tremain
+Jonathan Cook, Ben Cutting, Oliver Davies, Brendan Doggett, Matt Gilkes, Chris Green, Alex Hales (ENG), Baxter Holt, Usman Khawaja, Nathan McAndrew, Arjun Nair, Alex Ross, Rilee Rossouw (SA), Daniel Sams (c), Jason Sangha, Tanveer Sangha, Chris Tremain, Sam Whiteman
